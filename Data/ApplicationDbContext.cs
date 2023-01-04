@@ -13,4 +13,6 @@ using NguyenThaoNguyen451.Models;
         }
 
         public DbSet<NguyenThaoNguyen451.Models.UniversityNTN451> UniversityNTN451 { get; set; } = default!;
+
+        public DbSet<NguyenThaoNguyen451.Models.NTN451> NTN451 { get; set; } = default!;
     }

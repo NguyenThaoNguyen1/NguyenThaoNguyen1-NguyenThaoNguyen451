@@ -9,57 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NguyenThaoNguyen451
 build_property.RootNamespace = NguyenThaoNguyen451
-build_property.ProjectDir = C:\New folder (2)\NguyenThaoNguyen451\
+build_property.ProjectDir = c:\New folder (2)\NguyenThaoNguyen451\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\New folder (2)\NguyenThaoNguyen451
+build_property.MSBuildProjectDirectory = c:\New folder (2)\NguyenThaoNguyen451
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/Home/Index.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/Home/Privacy.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/Shared/Error.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/NTN451/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRONDUxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/New folder (2)/NguyenThaoNguyen451/Views/NTN451/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRONDUxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/New folder (2)/NguyenThaoNguyen451/Views/NTN451/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRONDUxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/New folder (2)/NguyenThaoNguyen451/Views/NTN451/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRONDUxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/New folder (2)/NguyenThaoNguyen451/Views/NTN451/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRONDUxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/New folder (2)/NguyenThaoNguyen451/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Create.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eU5UTjQ1MVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Delete.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eU5UTjQ1MVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Details.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eU5UTjQ1MVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Edit.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eU5UTjQ1MVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Index.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/UniversityNTN451/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eU5UTjQ1MVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/_ViewImports.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/_ViewStart.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/New folder (2)/NguyenThaoNguyen451/Views/Shared/_Layout.cshtml]
+[c:/New folder (2)/NguyenThaoNguyen451/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jc57ylu6xi
